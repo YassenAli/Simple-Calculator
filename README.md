@@ -1,3 +1,3 @@
 # Simple-Calculator
 
-[!Calculator](Calculator.png)
+![Calculator](Calculator.png)
