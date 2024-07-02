@@ -62,11 +62,15 @@ Contributions are welcome! Please fork the repository and create a pull request 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
-## Acknowledgements
+## Live Demo
 
-- [React.js](https://reactjs.org/)
-- App developed by Yassin Ali
+- try the app [here](https://simple-calculator-eta-five.vercel.app/)
 
 ## Screenshot
 
 ![Calculator](Calculator.png)
+
+## Acknowledgements
+
+- [React.js](https://reactjs.org/)
+- App developed by [Yassin Ali](https://github.com/YassenAli)
